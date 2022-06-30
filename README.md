@@ -1,5 +1,7 @@
 # Last-Mile Delivery Drones
 
+Mentors: [Bhavya Dalal](https://github.com/dalalbhavya), [Raghuvamsi Bokka](https://github.com/RaghuvamsiBokka)
+
 **Description:** _TATA 1mg_ is a pharmaceutical company that
 delivers medicines at the doorstep via their courier
 executives. Delivery drones can achieve the same task with a
