@@ -19,4 +19,4 @@ planned.
 individual timings so that the performance of the whole
 process can be analysed.
 - Brownie points: Solving the problem involving the
-constraint of limited battery time of the drone.
+constraint of limited battery time of the drone
